@@ -1,6 +1,6 @@
 # Write your code here
 
-num = 11
+num = 10
 while num >= 1 do 
  puts num 
  num -= 1
