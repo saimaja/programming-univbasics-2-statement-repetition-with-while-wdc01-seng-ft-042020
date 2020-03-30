@@ -2,8 +2,8 @@
 
 num = 11
 while num >= 1 do 
-  puts num -= 1
+  p num -= 1
 end
-puts "Happy New Year!"
+p "Happy New Year!"
 
 
