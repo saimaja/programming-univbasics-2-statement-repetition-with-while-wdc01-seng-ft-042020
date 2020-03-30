@@ -2,8 +2,10 @@
 
 num = 11
 while num >= 1 do 
-  return num -= 1
+ puts num -= 1
 end
-return "Happy New Year!"
+if num == 0
+puts "Happy New Year!"
+end
 
 
